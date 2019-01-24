@@ -1,0 +1,40 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.nav-link2 {
+  display: block;
+  padding: .5rem 1rem;
+  font-size: 1.4rem;
+  color: white;
+  }
+
+.basic-font {
+  font-size: 1.5rem;
+}  
+
+.header-font {
+  font-size: 1.5rem;
+}  
+
+.detail-font {
+  font-size: 1.5rem;
+}  
+
+.kj-start {
+  background-color: lemonchiffon;
+}
+
+.kj-complete {
+  background-color: lightgray;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
